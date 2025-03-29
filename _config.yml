@@ -1,0 +1,5 @@
+```yml
+title: My Blog
+author: gom3a
+theme: jekyll-theme-cayman
+markdown: kramdown
